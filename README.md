@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C4CC.svg?logo=vercel&logoColor=white)](https://main.d40srszy37l3u.amplifyapp.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/srihari.rock.1/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihari-r-614714252/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rsrihari066) 
@@ -12,7 +13,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22264427/srihari-r) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SRIHARIRAMESH4) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@code_with_hari) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C4CC.svg?logo=vercel&logoColor=white)](https://main.d40srszy37l3u.amplifyapp.com/)
+
 
 
 # 💻 Tech Stack:
